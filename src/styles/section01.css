@@ -1,0 +1,9 @@
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color:steelblue;
+    width:500px;
+    height:500px;
+    column-gap: 50px;
+    row-gap: 20px;
+}
