@@ -18,6 +18,26 @@
     margin: 0 auto;
 }
 
+.header__mom {
+    position: relative;
+}
+
+
+
+
+
+.header__right {
+    position: absolute;
+    right:0;
+    background: radial-gradient(circle at center, yellow, skyblue, blue, pink);
+    width:120px;
+    height: 60px;
+    
+    
+
+}
+
+
 
 .cards {
     display: grid;
